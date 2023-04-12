@@ -1,0 +1,8 @@
+C:\Users\ALUMNO\source\repos\LaboratorioIIPrograIII\LaboratorioIIPrograIII\obj\Debug\LaboratorioIIPrograIII.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\LaboratorioIIPrograIII\LaboratorioIIPrograIII\obj\Debug\LaboratorioIIPrograIII.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\source\repos\LaboratorioIIPrograIII\LaboratorioIIPrograIII\obj\Debug\LaboratorioIIPrograIII.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\LaboratorioIIPrograIII\LaboratorioIIPrograIII\bin\Debug\LaboratorioIIPrograIII.exe.config
+C:\Users\ALUMNO\source\repos\LaboratorioIIPrograIII\LaboratorioIIPrograIII\bin\Debug\LaboratorioIIPrograIII.exe
+C:\Users\ALUMNO\source\repos\LaboratorioIIPrograIII\LaboratorioIIPrograIII\bin\Debug\LaboratorioIIPrograIII.pdb
+C:\Users\ALUMNO\source\repos\LaboratorioIIPrograIII\LaboratorioIIPrograIII\obj\Debug\LaboratorioIIPrograIII.exe
+C:\Users\ALUMNO\source\repos\LaboratorioIIPrograIII\LaboratorioIIPrograIII\obj\Debug\LaboratorioIIPrograIII.pdb
